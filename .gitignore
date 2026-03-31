@@ -1,0 +1,29 @@
+# Environment files (contains API keys)
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Prompt files
+SAMANVAY_Member1_Backend_AI_Prompt.md
+SAMANVAY_Member2_Frontend_UI_Prompt.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
