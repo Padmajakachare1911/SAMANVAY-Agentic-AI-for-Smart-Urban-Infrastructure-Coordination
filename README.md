@@ -35,6 +35,10 @@ In Indian cities, multiple departments (Water, Gas, Telecom, Electricity) indepe
 
 ---
 
+> 📘 **Full project report** — research, competitive analysis, architecture, API reference and technical audit: [`docs/PROJECT_REPORT.md`](docs/PROJECT_REPORT.md)
+
+---
+
 ## 🏗️ System Architecture
 
 ```
